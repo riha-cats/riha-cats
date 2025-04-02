@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&pause=1000&color=6177F7&width=435&lines=Code+is+the+art+of+those+who+fear+no+errors.)](https://git.io/typing-svg)
 
 ## 🙌 RIHA CATS
-<a href="https://ko.wikipedia.org/wiki/Windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></a>  [![Come Here](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friha-cats&count_bg=%239C3DE8&title_bg=%235B5D5B&icon=ghostery.svg&icon_color=%239452F2&title=Come&edge_flat=false)](https://github.com/riha-cats)  <a href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"><img src="https://img.shields.io/badge/Republic of Korea 🇰🇷-528DD7?style=flat&logo=Font Awesome&logoColor=white"/></a>
+<a href="https://ko.wikipedia.org/wiki/Windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/></a>  <a href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"><img src="https://img.shields.io/badge/Republic of Korea 🇰🇷-528DD7?style=flat&logo=Font Awesome&logoColor=white"/></a>
 
 
 ## 💬 Communication
