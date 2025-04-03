@@ -20,23 +20,18 @@
 **마인크래프트**에서는 Java 를 이용한 서버 개발이나, 플러그인 제작 또는 외주를 즐겨하고 있습니다.<br>
 학생이기에 **모고, 중간, 기말** 시즌에는 부재입니다.
 
-## 🗂️ Major Projects
+## 🗂️ Projects
 
-* `Studee ✏`
-* `Dongwon Timer`
 * `Itemhub`
-* `Minecraft Forum`
-* `riha studio`
-* `FRIDAY AI`
 
 ## 🛠️ Languages
 
 * `Python`
 * `NodeJS`
+* `JavaScript`
 * `Java`
 * `Skript`
 * `Lua`
-* `Kotlin`
 * `JSON`
 * `C`
 
