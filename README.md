@@ -23,6 +23,7 @@
 ## 🗂️ Projects
 
 * `Itemhub`
+* `Midi Player`
 
 ## 🛠️ Languages
 
