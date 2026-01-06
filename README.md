@@ -13,29 +13,8 @@
 
 ## 👨‍💻 Introduction
 
-안녕하세요 🙌 저는 개발자를 꿈꾸는 **리하** 입니다.<br>
-주로 개발 환경은 *NodeJS* 와 *프론트엔드*, *게임개발* 등을 하고 있으며<br>
-꿈꾸는 개발 언어는 *플러터* (또는 코틀린) 을 이용한 앱 개발을 희망하고 있습니다 😁<br>
-주로 게임은 **마인크래프트** 와 **발로란트**, **롤** 을 하고 있으며,<br>
-**마인크래프트**에서는 Java 를 이용한 서버 개발이나, 플러그인 제작 또는 외주를 즐겨하고 있습니다.<br>
-학생이기에 **모고, 중간, 기말** 시즌에는 부재입니다.
-
-## 🗂️ Projects
-
-* `Itemhub`
-* `Midi Player`
-
-## 🛠️ Languages
-
-* `Python`
-* `NodeJS`
-* `JavaScript`
-* `Java`
-* `Skript`
-* `Lua`
-* `JSON`
-* `C`
-
-## 🏷️ RANK
-
-![Riha's GitHub stats](https://github-readme-stats.vercel.app/api?username=riha-cats&show_icons=true&theme=tokyonight)
+안녕하세요 🙌 저는 고2 대한민국 평범한 청소년 개발자가 되고픈 **리하** 입니다.<br>
+주로 개발 환경은 `Python`, `NodeJS`, *게임 개발* 등을 하고 있으며,<br>
+**경영정보학과 (MIS)** 를 희망 학과로 두고 있는 2026년 기준 일반계고 2학년 학생입니다.<br>
+<br>
+최근 연습하고 있는 코드 언어는 `SQL`, `Python` 입니다.<br>
